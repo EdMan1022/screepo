@@ -1,0 +1,22 @@
+{
+  "name": "screepo",
+  "version": "1.0.0",
+  "description": "My files for the screep game",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdMan1022/screepo.git"
+  },
+  "keywords": [
+    "screeps"
+  ],
+  "author": "Edward Brennan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdMan1022/screepo/issues"
+  },
+  "homepage": "https://github.com/EdMan1022/screepo#readme"
+}
