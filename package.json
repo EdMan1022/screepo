@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/EdMan1022/screepo/issues"
   },
-  "homepage": "https://github.com/EdMan1022/screepo#readme"
+  "homepage": "https://github.com/EdMan1022/screepo#readme",
+  "devDependencies": {
+    "grunt": "~1.0.3",
+    "grunt-contrib-jshint": "~2.0.0",
+    "grunt-contrib-nodeunit": "~2.0.0",
+    "grunt-contrib-uglify": "~4.0.0"
+  }
 }
