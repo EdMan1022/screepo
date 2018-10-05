@@ -21,11 +21,17 @@
   "homepage": "https://github.com/EdMan1022/screepo#readme",
   "devDependencies": {
     "grunt": "~1.0.3",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-copy": "^1.0.0",
     "grunt-contrib-jshint": "~2.0.0",
     "grunt-contrib-nodeunit": "~2.0.0",
     "grunt-contrib-uglify": "~4.0.0",
+    "grunt-file-append": "0.0.7",
+    "grunt-jsbeautifier": "^0.2.13",
+    "grunt-rsync": "^3.0.0",
     "screeps": "^3.1.6",
-    "screeps-api": "^1.7.2"
+    "screeps-api": "^1.7.2",
+    "time-grunt": "^1.4.0"
   },
   "dependencies": {
     "grunt-screeps": "^1.4.0"
