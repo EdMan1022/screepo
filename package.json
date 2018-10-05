@@ -23,7 +23,9 @@
     "grunt": "~1.0.3",
     "grunt-contrib-jshint": "~2.0.0",
     "grunt-contrib-nodeunit": "~2.0.0",
-    "grunt-contrib-uglify": "~4.0.0"
+    "grunt-contrib-uglify": "~4.0.0",
+    "screeps": "^3.1.6",
+    "screeps-api": "^1.7.2"
   },
   "dependencies": {
     "grunt-screeps": "^1.4.0"
